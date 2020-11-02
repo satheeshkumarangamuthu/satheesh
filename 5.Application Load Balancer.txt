@@ -1,0 +1,35 @@
+application load balancer
+most popular
+its supports container,serverless(we can write lambda code),
+provisioning-what time we need that time will be ready
+serverless-function,no.of request,trigeering time cost
+ECS-Elastic ContainerService
+you have create different ec2 group
+healthcheck
+target description is not showing(doubt)
+
+-----------------------------
+
+listner
+add listner 8080
+
+---------------------
+Target group configuration
+Edit attributes
+Deregister-remove the node-some req going unneccesary 
+
+LoadBlance Algorithm
+Round Robin
+stickiness-working cookie-particular node
+---------------------------------------
+
+microservice-seperate seperate applicatioon
+ex(1 application convert 9 application)
+
+ex
+mkdir firsthalf
+cd firsthalf
+vi index.html
+cd ..
+1node-3microservice
+listner we create path

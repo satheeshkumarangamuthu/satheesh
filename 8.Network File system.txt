@@ -1,0 +1,19 @@
+EFS
+Managed File for data
+
+can be share the file multiole machines
+security group same
+
+this hole foler practically Doubt.
+
+Acutally this one chaged..we can go via customize
+
+
+
+througput-depends on efficient
+
+bursting-particular level
+
+provisioning-Hidh Performance
+
+File Sytem policy Changed.

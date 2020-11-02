@@ -1,0 +1,25 @@
+aws ec2 purchsing options,aws hibernations 
+
+Local Region-Latency
+cost control-solution architect
+service-region to region migration is not possible
+-----------------------
+EC2-virtual Machine
+aws calculator
+
+100machines-purchasing-server
+
+on-demand--our user puepose(what a time we want)-final billing-amount high
+reserved-like cinima ticket-advance-amount low
+upfront-advance
+
+spot instance (stablization time)-cost low compare on-demand
+
+persistent Request-we will extend our project(doubt)
+usual behaviour-automatically stop
+
+hibrenete-when i shutdown and open opagain in same stage
+
+
+-----------------------
+

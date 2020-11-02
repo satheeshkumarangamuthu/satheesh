@@ -1,0 +1,7 @@
+Schedule Reserved Instance
+
+ec2
+its availble only 
+
+virginia
+orgino--only particlular region

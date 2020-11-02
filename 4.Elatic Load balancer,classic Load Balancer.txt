@@ -1,0 +1,57 @@
+Load balancer
+Classic Load balancer
+application load balancer
+Network Load balancer
+
+------------------------
+
+we focussed here certification
+
+solution architect associate
+Devloper Associate
+sysops associate
+
+-------------------------
+
+price list
+
+aws free-aws.amaon.com/free
+aws price-aws.amaon.com/pricing
+aws budget
+
+Billing alert-cloudwatch-virgina have entired billing session
+virginiya-billing alert
+alerm-sns
+billing alarm mail notification-doubt
+
+--------------------------------
+
+scalability-application/system can be handle greater loads by adapting
+
+2types-horizontal,vertical
+
+when we use the scalability that time need balancing the load.its called load balancer
+
+hoeizontal is best compare vertical
+
+----------------------------------------------
+
+High Availability
+
+Highly Available-99.9999999% no down-all time available-survive a datacenter loss.
+
+Disaster Recovery
+
+
+-------------------------------
+Load balancer
+classic load balancer
+always check health check
+unhealthy thershold-atleast ** time check
+
+security group(doubt)
+load balancer-serverless,microservice(docker)
+
+
+
+

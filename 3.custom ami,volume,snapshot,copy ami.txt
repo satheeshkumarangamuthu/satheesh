@@ -1,0 +1,46 @@
+#!/bin/bash
+yum update -y
+yum install httpd
+systemctl start httpd
+systemctl enable httpd
+echo "<h1>this is ec2 machine for user data</h1>" >/var/www/html/index.html
+
+----------------------------------
+
+VOLUME
+
+we shown start launch time
+
+root volume-8gb default
+
+volume-chargeble(even you stop)
+
+------------------------------------
+
+AMI(Amazon Machine Image)-clone
+
+template & image same but compare image more advance.
+
+template-script level&low level
+clone-os,data,application combined & high level
+ami migration-singapore to mumbai
+
+
+------------------------------------------
+
+SNAPSHOT-incremental backup-stage by stage-regular backup
+
+volume---snapshot--ami---backup instance--helping Disaster Recovery-migrate also region
+
+-----------------------------------------------
+
+scheduled instance-like a  spot-only avilble particular region
+compare spot price low
+placement group-latency is low
+cluster-single availabilty zone all machine
+spread-within region availability zone(max 7 instance per group az)
+partition-spread instance across partition
+
+-------------------------------------------------------------
+
+

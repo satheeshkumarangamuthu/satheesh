@@ -1,0 +1,43 @@
+Network Load Balancer-not free tier
+very high performance
+layer4
+can be assigned to static ip
+container,docker,web
+
+---------------------
+
+EBS-Elastic block storage
+
+lsblk -view additional volume
+mount
+1.create file system
+
+sudo file -s /dev/sdf(block device)-create symbolic link to 'xvdb'
+
+2.create file system
+
+sudo mkfs -t xfs /dev/xvdf
+
+3.DataFolder Create
+
+sudo mkdir /data
+
+4.mount
+
+xvdf to device
+
+sudo mount /dev/xvdf /data
+
+cd /data
+
+sudo touch.one
+sudo touch.two
+
+5.unmount
+
+cd ..
+
+sudo umount /data
+
+***same availabilityzone only we have attach and detech
+
